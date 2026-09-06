@@ -398,7 +398,7 @@ http://51.21.195.91
 
 ## 🖥️ Website
 
-![Website](screenshots/website.png)
+![Website](https://github.com/Pravesh880082/devops-cicd-project/blob/bdcc50a6b48d24a5849085c606c6a1cc9e3a7a2d/Screenshot%202026-09-03%20225517.png)
 
 
 
@@ -418,13 +418,7 @@ http://51.21.195.91
 
 ![AWS EC2](screenshots/ec2.png)
 
----
 
-## 🌐 Live Website
-
-![Live Website](screenshots/live-site.png)
-
----
 
 # 🔄 Complete CI/CD Process
 
