@@ -387,10 +387,10 @@ The application is deployed on AWS EC2.
 ### Live Demo
 
 ```text
-http://YOUR_EC2_PUBLIC_IP
+http://51.21.195.91
 ```
 
-> Replace `YOUR_EC2_PUBLIC_IP` with the current public IP/domain of your EC2 instance.
+> Replace `51.21.195.91` with the current public IP/domain of your EC2 instance.
 
 ---
 
@@ -400,19 +400,19 @@ http://YOUR_EC2_PUBLIC_IP
 
 ![Website](screenshots/website.png)
 
----
+
 
 ## ⚙️ GitHub Actions
 
 ![GitHub Actions](https://github.com/Pravesh880082/devops-cicd-project/blob/521ca2d2ec6c5377cd319207fa6413661c2a64c7/Screenshot%202026-09-06%20100329.png)
 
----
+
 
 ## 🐳 Docker Container
 
-![Docker](screenshots/docker.png)
+![Docker](https://github.com/Pravesh880082/devops-cicd-project/blob/053fdd11e2215db38e70bb44a1e2de19883f968d/Screenshot%202026-09-06%20215946.png)
 
----
+
 
 ## ☁️ AWS EC2
 
