@@ -497,7 +497,7 @@ Deployment               ✓
 Open:
 
 ```text
-http://YOUR_EC2_PUBLIC_IP
+http://51.21.195.91
 ```
 
 The updated website should appear automatically.
