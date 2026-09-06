@@ -1,7 +1,7 @@
 # 🚀 Automated CI/CD Pipeline for Web Application
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=githubactions)
+![GitHub Actions](https://github.com/Pravesh880082/devops-cicd-project/blob/521ca2d2ec6c5377cd319207fa6413661c2a64c7/Screenshot%202026-09-06%20100329.png)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws)
 ![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
