@@ -101,7 +101,7 @@ The main objectives of this project are:
 
 # 📂 Project Structure
 
-```text
+text
 devops-cicd-project/
 │
 ├── .github/
@@ -416,7 +416,7 @@ http://51.21.195.91
 
 ## ☁️ AWS EC2
 
-![AWS EC2](screenshots/ec2.png)
+![AWS EC2](https://github.com/Pravesh880082/devops-cicd-project/blob/32f419e57c07df473438162bee95e7aa1bda3758/devops%20cicd%20ec2.png)
 
 
 
